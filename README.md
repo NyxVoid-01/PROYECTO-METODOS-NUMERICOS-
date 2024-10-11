@@ -26,3 +26,8 @@ Aquí encontrarán los trabajos y entregables del proyecto del curso de Métodos
   <h1> Predicción de Deserción de estudiantes universitarios  </h1>
 </div>
 
+
+### ÍNDICE
++ [INFORME](https://github.com/NyxVoid-01/PROYECTO-METODOS-NUMERICOS-/blob/main/DOC/Proyecto%20diserci%C3%B3n%20de%20estudiantes%20universitario.pdf)
+
++ [CÓDIGO](https://github.com/NyxVoid-01/PROYECTO-METODOS-NUMERICOS-/blob/main/src/Project_MNOML.ipynb)
